@@ -47,5 +47,3 @@ To run the project, it is required that the following are installed in your syst
 - [Matplotlib](https://matplotlib.org/) version: "^2.02"
 - [Pandas](https://pandas.pydata.org/pandas-docs/stable/install.html) version: "^0.20.1"
 - [scikit-learn](http://scikit-learn.org/stable/install.html) version: "^0.18.1"
-
-If anaconda is installed, you do not have to install python and the packages since they are already included in anaconda packages.
